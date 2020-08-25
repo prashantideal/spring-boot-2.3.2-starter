@@ -15,4 +15,4 @@ Starter template for starting Spring Boot Rest API application
 - Common Utils e.g. Date Utils
 - Mobile Platform support for for tokens
 
-# Copy and Start building great applications
+### Copy code and Start building great applications
